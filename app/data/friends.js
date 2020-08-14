@@ -2,7 +2,7 @@ var friends = [
 	
 	{
 		name: "Thomas Cruise",
-		photo: "../placeholder",
+		photo: "../images/tomCruise.jpg",
 		scores: [
 			"5",
 			"1", 
@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Bradley Pitt",
-		photo: "../placeholder",
+		photo: "../images/bradPitt.jpg",
 		scores: [
 			"3",
 			"1",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Scarlett Johansson",
-		photo: "../placeholder",
+		photo: "../images/scarlettJohansson",
 		score: [
 			"3",
 			"1",
