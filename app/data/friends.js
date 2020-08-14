@@ -2,7 +2,7 @@ var friends = [
 	
 	{
 		name: "Thomas Cruise",
-		photo: "../images/tomCruise.jpg",
+		photo: "https://www.biography.com/.image/t_share/MTE5NDg0MDU0OTM2NTg1NzQz/tom-cruise-9262645-1-402.jpg",
 		scores: [
 			"5",
 			"1", 
@@ -18,7 +18,7 @@ var friends = [
 	},
 	{
 		name: "Bradley Pitt",
-		photo: "../images/bradPitt.jpg",
+		photo: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Brad_Pitt_2019_by_Glenn_Francis.jpg",
 		scores: [
 			"3",
 			"1",
@@ -34,7 +34,7 @@ var friends = [
 	},
 	{
 		name: "Scarlett Johansson",
-		photo: "../images/scarlettJohansson",
+		photo: "https://m.media-amazon.com/images/M/MV5BMTM3OTUwMDYwNl5BMl5BanBnXkFtZTcwNTUyNzc3Nw@@._V1_.jpg",
 		score: [
 			"3",
 			"1",
